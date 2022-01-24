@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\logitpe21\\BitCoinCalc\\BitCoinCalc\\BitCoinCalc.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\Week21-BitCoinCalculator\\BitCoinCalc\\BitCoinCalc.csproj",
       "projectName": "BitCoinCalc",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\BitCoinCalc\\BitCoinCalc\\BitCoinCalc.csproj",
+      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Week21-BitCoinCalculator\\BitCoinCalc\\BitCoinCalc.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\BitCoinCalc\\BitCoinCalc\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\Week21-BitCoinCalculator\\BitCoinCalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
